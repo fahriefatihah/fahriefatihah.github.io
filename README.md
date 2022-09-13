@@ -67,7 +67,7 @@
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">Muhammad Fahrie Fatihah </h1>
           <h2 class="text-white"> Creative Mind Make a Creative World </h2>
-          <p class="intro-subtitle"><span class="text-slider-items">IT Support , Junior Frontend Programmer , Desainer Grafis</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">Computer Network, Network Security, Web Developer</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
